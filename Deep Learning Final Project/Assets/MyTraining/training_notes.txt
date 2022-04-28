@@ -1,2 +1,9 @@
 example command to start training (from terminal in "Assets/MyTraining" directory)
 mlagents-learn my_training_config.yaml --run-id="csnext_example"
+
+Command to show the graphed training data
+tensorboard --logdir results --port 6006
+
+Loading an Existing Model
+https://github.com/Unity-Technologies/ml-agents/blob/release_19_docs/docs/Training-ML-Agents.md#loading-an-existing-model
+--initialize-from=<run-identifier>, where <run-identifier> is the old run ID.

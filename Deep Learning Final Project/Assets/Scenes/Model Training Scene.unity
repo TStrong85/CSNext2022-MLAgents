@@ -199,6 +199,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -265,6 +269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -330,6 +338,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -498,6 +510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -564,6 +580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -629,6 +649,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -757,6 +781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -823,6 +851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -888,6 +920,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -1146,6 +1182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -1211,6 +1251,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -1278,6 +1322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1343,6 +1391,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -1410,6 +1462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -1475,6 +1531,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -1704,6 +1764,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -1769,6 +1833,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -1841,6 +1909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Training Environment (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -1911,6 +1983,10 @@ PrefabInstance:
     - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_Name
       value: Training Environment (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7550451208347971144, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7550451208347971145, guid: ea106726609df594a9b91ac4092cc053, type: 3}
       propertyPath: m_RootOrder
@@ -2784,6 +2860,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7550451208997511040, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: segmentPrefabs.Array.data[6]
+      value: 
+      objectReference: {fileID: 7266404500690757365, guid: f854212cdddc60f43a9c9a7997f91615, type: 3}
+    - target: {fileID: 7550451208997511040, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: segmentPrefabs.Array.data[7]
+      value: 
+      objectReference: {fileID: 7266404500690757365, guid: f854212cdddc60f43a9c9a7997f91615, type: 3}
+    - target: {fileID: 7550451208997511040, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: segmentPrefabs.Array.data[8]
+      value: 
+      objectReference: {fileID: 7266404500690757365, guid: f854212cdddc60f43a9c9a7997f91615, type: 3}
+    - target: {fileID: 7550451208997511040, guid: ea106726609df594a9b91ac4092cc053, type: 3}
+      propertyPath: segmentPrefabs.Array.data[9]
+      value: 
+      objectReference: {fileID: 7266404500690757365, guid: f854212cdddc60f43a9c9a7997f91615, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea106726609df594a9b91ac4092cc053, type: 3}
 --- !u!1001 &8067745411652432291
